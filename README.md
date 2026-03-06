@@ -142,15 +142,28 @@ make clean
 
 ## 🖥️ Demo & Screenshots
 
-### Shell in Action
+### ✅ Compile Success
+![Compile Success](https://raw.githubusercontent.com/BadeNaveenKumar/custom-shell/main/Screen%20shots/compile_success.png)
 
-| Feature | Screenshot |
-|---------|------------|
-| ✅ Compile Success | `Screen shots/compile_success.png` |
-| 🖥️ Shell Running | `Screen shots/run_demo.png` |
-| 📁 Directory Navigation (`cd`) | `Screen shots/cd_navigation.png` |
-| ⚙️ Background Process (`&`) | `Screen shots/background_process.png` |
-| 🔀 Redirection & Piping | `Screen shots/redirection_piping.png` |
+---
+
+### 🖥️ Shell Running
+![Shell Running](https://raw.githubusercontent.com/BadeNaveenKumar/custom-shell/main/Screen%20shots/run_demo.png)
+
+---
+
+### 📁 Directory Navigation (`cd`)
+![CD Navigation](https://raw.githubusercontent.com/BadeNaveenKumar/custom-shell/main/Screen%20shots/cd_navigation.png)
+
+---
+
+### ⚙️ Background Process (`&`)
+![Background Process](https://raw.githubusercontent.com/BadeNaveenKumar/custom-shell/main/Screen%20shots/background_process.png)
+
+---
+
+### 🔀 Redirection & Piping
+![Redirection and Piping](https://raw.githubusercontent.com/BadeNaveenKumar/custom-shell/main/Screen%20shots/redirection_piping.png)
 
 ---
 
